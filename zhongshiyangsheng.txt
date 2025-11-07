@@ -122,7 +122,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-StrConcat-v2.jpg",
             "mainColor": "#3071F2",
             "subTitle": "文本处理",
@@ -311,7 +311,7 @@
             ]
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Batch-v2.jpg",
             "mainColor": "#00B2B2",
             "subTitle": "批处理",
@@ -393,7 +393,7 @@
             },
             "data": {
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号at8880p",
                 "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-LLM-v2.jpg",
                 "subTitle": "大模型",
                 "title": "大模型"
@@ -673,7 +673,7 @@
             },
             "data": {
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Plugin-v2.jpg",
                 "subtitle": "语音合成:speech_synthesis",
                 "title": "speech_synthesis"
@@ -1035,7 +1035,7 @@
                 "streamingOutput": true
               },
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
                 "mainColor": "#5C62FF",
                 "subTitle": "输出",
@@ -1081,7 +1081,7 @@
                 "streamingOutput": true
               },
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
                 "mainColor": "#5C62FF",
                 "subTitle": "输出",
@@ -1127,7 +1127,7 @@
                 "streamingOutput": true
               },
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
                 "mainColor": "#5C62FF",
                 "subTitle": "输出",
@@ -1160,7 +1160,7 @@
             },
             "data": {
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://p9-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/e393bbdee2cd4c6784fbb812d8773ccd~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1760425504&x-signature=WxVHoyYhacuKvCW3QQp%2BOyY7%2FhY%3D",
                 "subtitle": "获取音频时长:get_audio_duration",
                 "title": "获取语音时长1"
@@ -1358,7 +1358,7 @@
             },
             "data": {
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-StrConcat-v2.jpg",
                 "mainColor": "#3071F2",
                 "subTitle": "文本处理",
@@ -1509,7 +1509,7 @@
             },
             "data": {
               "nodeMeta": {
-                "description": "",
+                "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
                 "icon": "https://p6-flow-product-sign.byteimg.com/tos-cn-i-13w3uml6bg/b6c5bb01be2840a3add51c345f2905eb~tplv-13w3uml6bg-resize:128:128.image?rk3s=2e2596fd&x-expires=1760425904&x-signature=SoDU0PlSaulgztjV6SKDEc1hqqU%3D",
                 "subtitle": "即梦图片生成:jimeng_generate_image",
                 "title": "即梦图片生成"
@@ -1859,7 +1859,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Code-v2.jpg",
             "subTitle": "代码",
             "title": "代码-组合参数"
@@ -2027,7 +2027,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Plugin-v2.jpg",
             "subtitle": "视频合成_剪映小助手:create_draft",
             "title": "创建草稿"
@@ -2255,7 +2255,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Plugin-v2.jpg",
             "subtitle": "视频合成_剪映小助手:add_images",
             "title": "添加图片"
@@ -2621,7 +2621,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Plugin-v2.jpg",
             "subtitle": "视频合成_剪映小助手:add_keyframes",
             "title": "添加关键帧"
@@ -2849,7 +2849,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Code-v2.jpg",
             "subTitle": "代码",
             "title": "代码-组合关键帧"
@@ -2938,7 +2938,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Plugin-v2.jpg",
             "subtitle": "视频合成_剪映小助手:add_audios",
             "title": "添加音频"
@@ -3272,7 +3272,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Plugin-v2.jpg",
             "subtitle": "视频合成_剪映小助手:add_captions",
             "title": "添加字幕"
@@ -3839,7 +3839,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -3885,7 +3885,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -3931,7 +3931,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -3977,7 +3977,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -4023,7 +4023,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -4069,7 +4069,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -4115,7 +4115,7 @@
             "streamingOutput": false
           },
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-Output-v2.jpg",
             "mainColor": "#5C62FF",
             "subTitle": "输出",
@@ -4148,7 +4148,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-LLM-v2.jpg",
             "subTitle": "大模型",
             "title": "生成文案"
@@ -4417,7 +4417,7 @@
         },
         "data": {
           "nodeMeta": {
-            "description": "",
+            "description": "免费领取永久剪映会员：微信QBF253，备用号vv19291",
             "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dvsmryvd_avi_dvsm/ljhwZthlaukjlkulzlp/icon/icon-LLM-v2.jpg",
             "subTitle": "大模型",
             "title": "大模型_1"
@@ -4769,7 +4769,7 @@
           },
           "inputs": {
             "schemaType": "slate",
-            "note": "[]"
+            "note": "[{\"type\":\"heading-one\",\"children\":[{\"text\":\"获取更多最新工作流添加法叔/学习智能体\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"微信：QBF253\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"备用号：vv19291\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"【备注剪映：免费领取永久剪映vip版】\",\"bold\":true,\"type\":\"text\"}]}]"
           }
         },
         "_temp": {
@@ -4803,7 +4803,7 @@
           },
           "inputs": {
             "schemaType": "slate",
-            "note": "[]"
+            "note": "[{\"type\":\"heading-one\",\"children\":[{\"text\":\"获取更多最新工作流添加法叔/学习智能体\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"微信：QBF253\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"备用号：vv19291\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"\",\"bold\":true,\"type\":\"text\"}]},{\"type\":\"heading-one\",\"children\":[{\"text\":\"【备注剪映：免费领取永久剪映vip版】\",\"bold\":true,\"type\":\"text\"}]}]"
           }
         },
         "_temp": {
